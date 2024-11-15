@@ -12,7 +12,7 @@ import Account from './pages/Account'
 import Analytics from './pages/Analytics'
 import Dashboard from './pages/Dashboard'
 
-export const backendUrl = import.meta.env.VITE_BACKEND_URL
+export const backendUrl = i"https://xchnagetechsecom-backend.onrender.com"
 export const currency = '₹'
 
 const App = () => {
